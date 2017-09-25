@@ -11,6 +11,7 @@ public class SpringRestApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("loads");
 	}
 
 }
